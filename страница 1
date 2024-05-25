@@ -1,0 +1,79 @@
+<html>
+    <body>
+        <header>
+            <img id ="logo" src="https://dasart.ru/userdata/image/3a/e1/3ae1a851201a87fc9fa7b9eefbd13f73.jpg" height="50px"/>
+            <b>Вид спората </b><a href="#discount">Подробнее</a>
+        </header>
+        <main>
+            <nav>
+                <a href="#price">Винтовки</a>
+                <a href="#delivery">Новости</a>
+                <a href="#about_us">Поевление</a>
+            </nav>
+            <h1><i></i></h1>
+            <img src="https://sc12-surgut.gosuslugi.ru/netcat_files/48/190/obxejBLtrKM.jpg" width="850px"/>
+            <h2 id="price">Наши винтовки</h2>
+            <p>
+                <p><img src="https://pguns.ru/image/catalog/galler2.jpg"
+                " width="300px"/><br/>ALEKS</p>
+                <p><img src="https://orujie32.ru/upload/iblock/a2f/a2f00ee07423a2a06adb511783a6a1f7.png" width="300px"/><br/>BAIKAL</p>
+                <p><img src="https://www.schuetzenwelt.de/out/pictures/master/product/1/505138.jpg" width="300px"/><br/>WALTHER</p>
+                <p><img src="https://www.air-gun.ru/images/average/93307.jpg" width="300px"/><br/>ATAMAN (пистолет)</p>
+            </p>
+            <h2 id="delivery">Новости</h2>
+            <a href="#contacts">Контакты</a>
+            <p>Было проведено 54 Всероссийских соревнования по обоим видам спорта:  32 по пулевой стрельбе, которые организовали 9 регионов, и 22 по стендовой – в 10 субъектах России.</p>
+
+            <p> ССР реализовал большой образовательный проект, в который вошли курсы для почти 100 региональных тренеров по пулевой и стендовой стрельбе из 36 регионов, 2 онлайн-курса по использованию тренажеров СКАТТ, семинары для сотрудников. 31 регион получил помощь в материально-техническом обеспечении: оружие, боеприпасы, мишени, тренажеры и т.д.</p>
+            <h2 id="about_us">Поевление</h2>
+            <p>Стрелковый спорт — один из древнейших прикладных видов спорта. Он берёт начало от состязаний в стрельбе из лука и арбалета. С появлением в середине XIV века огнестрельного оружия начались состязания по стрельбе из гладкоствольных ружей, а создание нарезного оружия обусловило развитие пулевой стрельбы. </p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/KK-liegend.jpg/350px-KK-liegend.jpg" width="200px"/><br/>
+            <p><a href="#logo">Наверх</a></p>
+        </main>
+        <footer>
+            <p id="contacts"><b><i>Контакты</i></b></p>
+            <p>Адрес:Калинина 301</p>
+            <p>Тел.: +7 924 580-95-10 </p>
+            <p>Это был мой сайт спасибо за просмотр:) </p>
+        </footer>
+    </body>
+</html>
+body {
+    font-family: sans-serif;
+}
+header{
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(134, 8, 8);
+    border-radius: 20px;
+}
+header a {
+    color:white;
+}
+header img {
+margin:15px;
+}
+h1 { 
+    text-align: center;
+    color:blueviolet;
+}
+footer {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(199, 67, 67);
+    border-radius: 20px;
+    padding: 5px;
+}
+nav {
+    background-color:rgb(145, 12, 12);
+    border-radius: 10px;
+     text-align: center;
+     padding:10px;
+     margin: 15px;
+     }
+nav a {
+    padding:20px;
+    color: white;
+     font-family: sans-serif;
+     text-decoration: none;
+}
